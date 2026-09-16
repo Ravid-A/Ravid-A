@@ -1,24 +1,90 @@
-# 👨‍💻 About Me: Code Wrangler in Training 🤠
-Hey there, digital explorer! 👋 <br>I'm a software engineering student, turning caffeine into code since 2022.<br>🔭 I'm currently working on: Convincing my computer that "sleep" is just a suggestion, not a command.<br>👯 I'm looking to collaborate on: Any project that doesn't involve writing documentation. (Just kidding... maybe.)<br>🤝 I'm looking for help with: Understanding why my code works when I don't want it to, and doesn't when I do.<br>🌱 I'm currently learning: How to explain to my family that "debugging" doesn't involve actual insects.<br>💬 Ask me about: My collection of programming memes or why I talk to rubber ducks.<br>⚡ Fun fact: I can write "Hello World" in 10 different languages, but I still can't figure out how to use the office printer.<br>Remember: In my world, there are 10 types of people - those who understand binary, and those who don't!
+<h1 align="center">Ravid Atia</h1>
 
+<p align="center">
+  <b>Full-stack developer</b> · Israel<br>
+  B.Sc Software Engineering student · certified Practical Software Engineer<br>
+  React / Next.js on the front, Node and .NET on the back, SQL and Mongo underneath — deployed on my own k3s cluster.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ravid-A&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravid-A&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravid-A&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ravid-A&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ravid-A&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ravid-A&style=flat-square&color=6e7681" alt="Profile views">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ravid-A&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I do
+
+- **Frontend** — React and Next.js with TypeScript, React Native / Expo for mobile. Component state with MobX or hooks, Vite or Next tooling.
+- **Backend** — Node/Express REST APIs with Sequelize over MySQL/MariaDB, Mongoose over MongoDB, JWT + bcrypt auth, real-time over Socket.IO. C#/.NET when the problem calls for it.
+- **Infrastructure** — I run what I build. My projects are deployed on a single-node k3s cluster I maintain myself, behind Cloudflare, Nginx Proxy Manager, Tailscale and Traefik, with every service declared in manifests. Docker, Linux, GitHub Actions.
+- **On the side** — Counter-Strike 2 server plugins in C#/.NET on CounterStrikeSharp, and older CS:GO work in SourcePawn. It's where I learned to read someone else's engine and ship against it.
+
+### Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [2048Multiplayer](https://github.com/Ravid-A/2048Multiplayer) | **Practical engineering final project.** Real-time multiplayer 2048 — Next.js client, separate API server with accounts and live matches | Next.js · Express · Socket.IO · Sequelize · MariaDB · JWT |
+| [TodoMate](https://github.com/Ravid-A/TodoMate) · [mobile client](https://github.com/Ravid-A/TodoMate-ReactNative) | Task app built twice — native Android, then cross-platform with a Firebase backend | Kotlin · React Native · Expo · Firebase |
+| [ai-study-planner](https://github.com/Ravid-A/ai-study-planner) | Study-plan generator backed by the Gemini API | React 19 · TypeScript · Vite · @google/genai |
+| [CompilationProject](https://github.com/Ravid-A/CompilationProject) | **Compilation course final project, B.Sc.** Compiler front end for a small language — lexer, LALR grammar, AST and semantic analysis over functions, control flow and typed expressions | Lex · Yacc · C |
+| [cs2-retakes-weapon-allocator](https://github.com/Ravid-A/cs2-retakes-weapon-allocator) | Weapon allocator for CS2 retakes with a client-drawn Panorama loadout menu | C# · .NET 10 · CounterStrikeSharp |
+
+### Open source
+
+I help maintain plugins that other people run on their servers, and I send fixes upstream rather than forking around them.
+
+- **[cs2-retakes-weapon-allocator](https://github.com/Ravid-A/cs2-retakes-weapon-allocator)** — 23 releases, currently `v3.2.5`, ~1k downloads. Released through a tagged pipeline with NuGet publishing.
+- **Merged upstream** into the frameworks I build on: [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/pull/1031) (plugin load ordering), [b3none/cs2-retakes](https://github.com/B3none/cs2-retakes/pull/293) (warmup death-cam bug), [PanoramaManager](https://github.com/Next-il/PanoramaManager/pull/1) (moved the HUD entity onto CounterStrikeSharp's `CCSCustomHudLayout` API), [SPCode](https://github.com/SPCodeOrg/SPCode/pull/131).
+- Comfortable working in someone else's codebase: read the engine API, find the real cause, keep the diff small enough to review.
+
+### Tech
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Data & infra**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravid-A&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravid-A&theme=github_dark&hide_border=true&layout=compact&langs_count=8&exclude_repo=cs2-retakes-weapon-allocator" alt="Top languages">
+</p>
+
+### Reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ravid-A)
