@@ -15,7 +15,7 @@
 ### What I do
 
 - **Frontend** — React and Next.js with TypeScript, React Native / Expo for mobile. Component state with MobX or hooks, Vite or Next tooling.
-- **Backend** — Node/Express REST APIs with Sequelize over MySQL/MariaDB, Mongoose over MongoDB, JWT + bcrypt auth, real-time over Socket.IO. C#/.NET when the problem calls for it.
+- **Backend** — Node/Express REST APIs with Sequelize over MySQL/MariaDB, Mongoose over MongoDB, JWT + bcrypt auth, real-time over Socket.IO. C#/.NET service backends as well.
 - **Infrastructure** — I run what I build. My projects are deployed on a single-node k3s cluster I maintain myself, behind Cloudflare, Nginx Proxy Manager, Tailscale and Traefik, with every service declared in manifests. Docker, Linux, GitHub Actions.
 - **On the side** — Counter-Strike 2 server plugins in C#/.NET on CounterStrikeSharp, and older CS:GO work in SourcePawn. It's where I learned to read someone else's engine and ship against it.
 
