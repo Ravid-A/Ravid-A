@@ -83,7 +83,14 @@ I help maintain plugins that other people run on their servers, and I send fixes
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravid-A&theme=github_dark" alt="GitHub profile summary">
 </p>
+<p align="left">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravid-A&theme=github_dark&exclude=HTML,CSS,EJS,Yacc,Lex" alt="Top languages by commit">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravid-A&theme=github_dark&exclude=HTML,CSS,EJS,Yacc,Lex" alt="Top languages by repo">
+</p>
+
+<sub>Language cards count public repositories only, with markup and generated languages excluded.</sub>
 
 ### Reach me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ravid-A)
+[![GitHub](https://img.shields.io/badge/GitHub-Ravid--A-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ravid-A)
+![Discord](https://img.shields.io/badge/Discord-ravid-5865F2?style=flat-square&logo=discord&logoColor=white)
