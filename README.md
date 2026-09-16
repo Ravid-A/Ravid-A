@@ -81,8 +81,7 @@ I help maintain plugins that other people run on their servers, and I send fixes
 ### Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravid-A&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravid-A&theme=github_dark&hide_border=true&layout=compact&langs_count=8&exclude_repo=cs2-retakes-weapon-allocator" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravid-A&theme=github_dark" alt="GitHub profile summary">
 </p>
 
 ### Reach me
